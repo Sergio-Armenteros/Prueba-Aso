@@ -1,3 +1,4 @@
+```Powershell
 #Realizar un script que comprobar el puerto 80 de todas las direcciones IP
 
 foreach($pri in 1..254){
@@ -63,7 +64,7 @@ foreach($primer in 1..254){
     }
 }
 
-
+´´´
    
 
  
